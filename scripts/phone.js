@@ -106,4 +106,4 @@ const handleShowAll = () => {
   handleSearch(true);
 };
 
-// loadPhone();
+loadPhone('apple');
